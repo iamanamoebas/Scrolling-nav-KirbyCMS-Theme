@@ -1,0 +1,41 @@
+title: Page
+pages: true
+files: true
+fields:
+  tab1:
+    label: Header Section
+    type:  tabs
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea 
+  tab2:
+    label: About Section
+    type:  tabs
+  title1:
+    label: Title
+    type:  text 
+  text1:
+    label: Text
+    type:  textarea    
+  tab3:
+    label: Services Section
+    type:  tabs
+  title2:
+    label: Title
+    type:  text
+  text2:
+    label: Text
+    type:  textarea
+  tab4:
+    label: Contact Section
+    type:  tabs
+  title3:
+    label: Title
+    type:  text
+  text3:
+    label: Text
+    type:  textarea
+             

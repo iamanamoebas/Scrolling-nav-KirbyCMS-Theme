@@ -1,0 +1,13 @@
+Title: Scrolling Nav
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Copyright: Designed by (link: https://startbootstrap.com/template-overviews/scrolling-nav/ text: startbootstrap.com popup: yes)

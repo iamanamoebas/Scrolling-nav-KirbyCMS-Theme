@@ -1,0 +1,65 @@
+Title: Scrolling Nav by Startbootstrap
+
+----
+
+Text: Thats Scrolling Nav, a nice and Flexible Scrolling nav Theme by (link: https://startbootstrap.com/template-overviews/scrolling-nav/ text:startbootstrap.com popup: yes), and Converted to (link: http://getkirby.com text: Kirby CMS popup: yes)
+
+----
+
+Title1: About Section
+
+----
+
+Text1: This Theme, is a very cool example of a one page navigation scrolling theme, Build and Designed by startbootstrap.com
+
+----
+
+Title2: Services Section
+
+----
+
+Text2: Magna, exercitationem ea, quae. Sollicitudin provident ullamcorper odit! Ullamco augue delectus nesciunt. Fugit dignissim! Cillum. Animi, tincidunt purus, vivamus feugiat. Primis ratione ad habitasse habitant velit maiores laoreet. Incididunt quam.
+
+----
+
+Title3: Contact Section
+
+----
+
+Text3: Magna, exercitationem ea, quae. Sollicitudin provident ullamcorper odit! Ullamco augue delectus nesciunt. Fugit dignissim! Cillum. Animi, tincidunt purus, vivamus feugiat. Primis ratione ad habitasse habitant velit maiores laoreet. Incididunt quam.
+
+----
+
+Youremail: test@local.de
+
+----
+
+Namelabel: Dein Name
+
+----
+
+Nameplaceholder: Simon
+
+----
+
+Emaillabel: Deine Email
+
+----
+
+Emailplaceholder: test@test.de
+
+----
+
+Messagelabel: Deine Nachricht
+
+----
+
+Messageplaceholder: Wie kann ich dir helfen
+
+----
+
+Submitlabel: Senden
+
+----
+
+Successpage: kontakt
