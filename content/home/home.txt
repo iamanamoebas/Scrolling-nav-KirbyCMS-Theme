@@ -63,3 +63,11 @@ Submitlabel: Senden
 ----
 
 Successpage: kontakt
+
+----
+
+Abouttitle: About Section
+
+----
+
+Abouttext: Thats scrolling nav, a nice Theme by startbootstrap.com

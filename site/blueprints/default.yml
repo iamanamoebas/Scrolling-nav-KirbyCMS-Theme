@@ -10,16 +10,16 @@ fields:
     type:  text
   text:
     label: Text
-    type:  textarea 
+    type:  textarea
   tab2:
     label: About Section
     type:  tabs
-  title1:
+  abouttitle:
     label: Title
-    type:  text 
-  text1:
+    type:  text
+  abouttext:
     label: Text
-    type:  textarea    
+    type:  textarea
   tab3:
     label: Services Section
     type:  tabs
@@ -38,4 +38,3 @@ fields:
   text3:
     label: Text
     type:  textarea
-             
