@@ -23,18 +23,18 @@ fields:
   tab3:
     label: Services Section
     type:  tabs
-  title2:
+  servicetitle:
     label: Title
     type:  text
-  text2:
+  servicetext:
     label: Text
     type:  textarea
   tab4:
     label: Contact Section
     type:  tabs
-  title3:
+  contacttitle:
     label: Title
     type:  text
-  text3:
+  contacttext:
     label: Text
     type:  textarea

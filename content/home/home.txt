@@ -71,3 +71,19 @@ Abouttitle: About Section
 ----
 
 Abouttext: Thats scrolling nav, a nice Theme by startbootstrap.com
+
+----
+
+Contacttext: Magna, exercitationem ea, quae. Sollicitudin provident ullamcorper odit! Ullamco augue delectus nesciunt. Fugit dignissim! Cillum. Animi, tincidunt purus, vivamus feugiat. Primis ratione ad habitasse habitant velit maiores laoreet. Incididunt quam.
+
+----
+
+Contacttitle: Contact Section
+
+----
+
+Servicetext: Magna, exercitationem ea, quae. Sollicitudin provident ullamcorper odit! Ullamco augue delectus nesciunt. Fugit dignissim! Cillum. Animi, tincidunt purus, vivamus feugiat. Primis ratione ad habitasse habitant velit maiores laoreet. Incididunt quam.
+
+----
+
+Servicetitle: Services Section
